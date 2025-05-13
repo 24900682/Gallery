@@ -185,12 +185,8 @@ window.onclick = function(event) {
 </html>
 ```
 # OUTPUT:
-![alt text](<galpro/galapp/static/Screenshot 2025-05-06 002810.png>)
+![alt text](<galpro/galapp/static/Screenshot 2025-05-13 144128.png>)
 ![alt text](<galpro/galapp/static/Screenshot 2025-05-06 002747.png>)
-![alt text](<galpro/galapp/static/Screenshot 2025-05-06 002820.png>)
-![alt text](<galpro/galapp/static/Screenshot 2025-05-06 002832.png>)
-![alt text](<galpro/galapp/static/Screenshot 2025-05-06 002842.png>)
-![alt text](<galpro/galapp/static/Screenshot 2025-05-06 002853.png>)
-![alt text](<galpro/galapp/static/Screenshot 2025-05-06 002903.png>)
+
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
