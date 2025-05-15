@@ -1,5 +1,5 @@
 # Ex.08 Design of Interactive Image Gallery
-# Date:06.05.2025
+# Date:15.05.2025
 # AIM:
 To design a web application for an inteactive image gallery with minimum five images.
 
@@ -179,7 +179,7 @@ window.onclick = function(event) {
 
   </script>
   <footer>
-    <h2 align="center">Designed and developed by V.Shiryha - 212224230267</h2>
+    <h2 align="center">Designed and developed by ASWIN L - 212224230028</h2>
   </footer>
 </body>
 </html>
